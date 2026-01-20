@@ -192,9 +192,8 @@
 
 <details>
 <summary>点击展开查看（长图）</summary>
-
 <!-- 此处可后续插入实际测速或解锁截图链接 -->
-<img src="https://example.com/suyunti-test-screenshot.png" width="900" alt="流媒体与节点实测截图（长图）" />
+<img src="https://raw.githubusercontent.com/jichangbaike/suyunti/refs/heads/main/images/suyunti-test-2025.png" width="900" alt="速云梯流媒体与节点实测截图（长图）" />
 
 </details>
 
